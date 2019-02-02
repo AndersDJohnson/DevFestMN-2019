@@ -27,3 +27,14 @@ https://devfest.mn
 * TestCafe (https://github.com/DevExpress/testcafe)
 * Cyprus (https://www.cypress.io/)
 * Gauge (https://gauge.org/)
+
+## It's A Wonderful Web (New APIs)
+* https://slides.today/decks/-LWXRvwKF9eB48Ilzfbz
+* RelativeTimeFormat ("Moment.js on the platform")
+* CSS Scroll Snap
+* Page Lifecycle API
+* Async Clipboard API
+* CSS Paint API (part of Houdini API)
+* Background Fetch API
+* ResizeObserver
+* Portal tag
