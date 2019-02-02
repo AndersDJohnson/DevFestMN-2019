@@ -24,5 +24,6 @@ https://devfest.mn
 * https://dvinnik.com/
 * Arrange, Act, Assert
 * Visual Testing with Aplitools (https://applitools.com/)
-* TestCafe: https://github.com/DevExpress/testcafe
-* Cyprus: https://www.cypress.io/
+* TestCafe (https://github.com/DevExpress/testcafe)
+* Cyprus (https://www.cypress.io/)
+* Gauge (https://gauge.org/)
