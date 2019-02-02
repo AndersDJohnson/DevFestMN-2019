@@ -19,3 +19,10 @@ https://devfest.mn
 
 ## Testing with Puppeteer
 * http://slides.com/meastes/deck
+
+## Testing Beyond Selenium
+* https://dvinnik.com/
+* Arrange, Act, Assert
+* Visual Testing with Aplitools (https://applitools.com/)
+* TestCafe: https://github.com/DevExpress/testcafe
+* Cyprus: https://www.cypress.io/
